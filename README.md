@@ -1,7 +1,6 @@
 # Challenge - Analytics-Engineer
 
-# Dash Growth of the internet
-Esse é um desafio que estou participando para vaga de Analytics Enginner
+Estou participando deste desafio como parte do processo seletivo para a vaga de Analytics Engineer.
 
 ## 🔧 Desafios 
 
