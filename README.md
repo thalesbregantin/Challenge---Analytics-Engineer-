@@ -9,16 +9,17 @@ Estou participando deste desafio como parte do processo seletivo para a vaga de 
 - Consumir uma API e trazer alguns endpoints solicitados. - APIs
 - Elaborar uma apresentação para mostrar o resultado do challenge.
 
-
 ## 👨‍💻 Tecnologias Utilizadas
 
-> - Tableau Public
-> - Google Sheets
-> - Python
-> - SQL
+- Tableau Public
+- Google Sheets
+- Python
+- SQL
 
-📊 [Desafio 1 - Dashboard]()<br>
+## Menu dos Desafios
+
+📊 [Desafio 1 - Dashboard](https://github.com/thalesbregantin/Challenge---Analytics-Engineer-/tree/main/Desafio%20Tableau)<br>
 🎲 [Desafio 2 - SQL](https://github.com/thalesbregantin/Challenge---Analytics-Engineer-/tree/main/Desafio%20SQL)<br>
 🤖 [Desafio 3 - APIs](https://github.com/thalesbregantin/Challenge---Analytics-Engineer-/tree/main/Desafio%20APIs)<br>
-🚀 [Google Slides]()<br>
+🚀 [Google Slides](https://github.com/thalesbregantin/Challenge---Analytics-Engineer-/tree/main/Apresenta%C3%A7%C3%A3o%20-%20Challenge%20Engineer)<br>
 
