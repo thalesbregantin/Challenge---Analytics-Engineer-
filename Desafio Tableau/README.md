@@ -5,7 +5,7 @@ Desenvolver um dashboard utilizando uma ferramenta de visualização de dados, T
 bem como o número de usuários e assinantes na Argentina, investigando suas causas subjacentes.
 
 ## Dashboard desenvolvido
-![3]([[https://user-images.githubusercontent.com/63136680/171271398-0e689c2f-0fbb-48c6-9ff8-5a79bdfd42f0.jpg](https://github.com/thalesbregantin/Challenge---Analytics-Engineer-/blob/main/img/imgdash.PNG](https://raw.githubusercontent.com/thalesbregantin/Challenge---Analytics-Engineer-/main/img/imgdash.PNG)))
+![3](https://raw.githubusercontent.com/thalesbregantin/Challenge---Analytics-Engineer-/main/img/imgdash.PNG)
 
 Este dashboard oferece uma visão abrangente do acesso à internet na Argentina ao longo do tempo. Ele apresenta quatro grandes números essenciais:
 
