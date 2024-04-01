@@ -4,7 +4,7 @@ Estou participando deste desafio como parte do processo seletivo para a vaga de 
 
 ## 🔧 Desafios 
 
-- Construir um dashboard com tableau puplic. - Analytics
+- Construir um dashboard com tableau public. - Analytics
 - Projetar um DER, Gerar Scripts DDL e gerar Querys. - SQL
 - Consumir uma API e trazer alguns endpoints solicitados. - APIs
 - Elaborar uma apresentação para mostrar o resultado do challenge.
