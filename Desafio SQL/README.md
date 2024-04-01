@@ -22,17 +22,24 @@ O pedido é a entidade que reflete as transações geradas dentro do site (cada 
 
 ## Desenvolvimento do DER
 
-Cliente: Guarda informações dos usuários, tanto compradores quanto vendedores.
-Item: Representa produtos no marketplace, vinculado a categorias.
-Categoria: Categorias para organizar os itens.
-Pedido: Transações de compra de itens específicos por clientes.
+####Cliente:<br> 
+Guarda informações dos usuários, tanto compradores quanto vendedores.
+
+####Item:<br>
+Representa produtos no marketplace, vinculado a categorias.
+
+####Categoria:<br>
+Categorias para organizar os itens.
+
+####Pedido:<br>
+Transações de compra de itens específicos por clientes.
 
 As relações seriam:
 
-Um Cliente pode ter múltiplos Pedidos.
-Cada Pedido está associado a um Item.
-Cada Item pertence a uma Categoria.
-Um Cliente pode listar múltiplos Itens como vendedor.
+Um Cliente pode ter múltiplos Pedidos.<br>
+Cada Pedido está associado a um Item.<br>
+Cada Item pertence a uma Categoria.<br>
+Um Cliente pode listar múltiplos Itens como vendedor.<br>
 
 ## Diagrama
 ![3](https://raw.githubusercontent.com/thalesbregantin/Challenge---Analytics-Engineer-/main/img/diagrama.PNG)
