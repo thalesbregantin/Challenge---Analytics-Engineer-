@@ -8,7 +8,7 @@ A partir da seguinte necessidade, é necessário projetar um DER que responda ao
 
 Levando em consideração o modelo de comércio eletrônico que gerenciamos, temos algumas entidades básicas que queremos representar: Cliente, Pedido, Item e Categoria.
 
-#### Cliente:<br>
+#### Cliente:
 É a entidade onde estão todos os nossos usuários, sejam eles Compradores ou Vendedores do Site. Os principais atributos são e-mail, nome, sobrenome, sexo, endereço, data de nascimento, telefone, entre outros.
 
 #### Item:<br>
