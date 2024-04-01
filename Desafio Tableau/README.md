@@ -35,18 +35,18 @@ Em suma, a Argentina está demonstrando um compromisso notável com a inclusão 
 ## Links
 
 ### Acesso ao Dashboard:
-![Dashboard - Growth of the internet ](https://public.tableau.com/app/profile/thales.bregantin/viz/Growthoftheinternet_17118159143120/Painel1)
+[Dashboard - Growth of the internet ](https://public.tableau.com/app/profile/thales.bregantin/viz/Growthoftheinternet_17118159143120/Painel1)
 
 ### Base de dados últilizas:
 
-Assinaturas de banda larga fixa - Argentina
+Assinaturas de banda larga fixa - Argentina<br>
 https://data.worldbank.org/indicator/IT.NET.BBND?end=2022&locations=AR&start=1960&view=chart
 
-Indivíduos que utilizam a Internet (% da população) - Argentina
+Indivíduos que utilizam a Internet (% da população) - Argentina<br>
 https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AR
 
-Population, total - Argentina
+Population, total - Argentina<br>
 https://data.worldbank.org/indicator/SP.POP.TOTL?end=2022&locations=AR&start=2000
 
-Base Unificada:
+Base Unificada:<br>
 https://docs.google.com/spreadsheets/d/1dXxL54MvMyzYLMuafPsOhLmRuu_fIammVITRjxPG1Wk/edit#gid=0
