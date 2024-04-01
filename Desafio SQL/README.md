@@ -20,7 +20,7 @@ Levando em consideração o modelo de comércio eletrônico que gerenciamos, tem
 #### Pedido:<br>
 O pedido é a entidade que reflete as transações geradas dentro do site (cada compra é um pedido). Neste caso, não teremos um fluxo de carrinho de compras, portanto, cada item vendido será refletido em um pedido, independentemente da quantidade comprada.
 
-## DER
+## Desenvolvimento do DER
 
 Cliente: Guarda informações dos usuários, tanto compradores quanto vendedores.
 Item: Representa produtos no marketplace, vinculado a categorias.
