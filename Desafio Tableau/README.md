@@ -31,3 +31,22 @@ Destaca-se, ainda, a importância das assinaturas de internet móvel, que têm l
 Essa análise reflete não apenas o progresso tecnológico da Argentina, mas também ressalta o impacto socioeconômico do acesso à internet rápida e confiável. Essa disponibilidade generalizada não só impulsiona o crescimento econômico, mas também melhora o acesso à educação, saúde e serviços, além de facilitar a participação cívica e o desenvolvimento empresarial.
 
 Em suma, a Argentina está demonstrando um compromisso notável com a inclusão digital, e a contínua expansão da conectividade é crucial para impulsionar o desenvolvimento e a prosperidade em todo o país.
+
+## Links
+
+### Acesso ao Dashboard:
+![Dashboard - Growth of the internet ](https://public.tableau.com/app/profile/thales.bregantin/viz/Growthoftheinternet_17118159143120/Painel1)
+
+### Base de dados últilizas:
+
+Assinaturas de banda larga fixa - Argentina
+https://data.worldbank.org/indicator/IT.NET.BBND?end=2022&locations=AR&start=1960&view=chart
+
+Indivíduos que utilizam a Internet (% da população) - Argentina
+https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AR
+
+Population, total - Argentina
+https://data.worldbank.org/indicator/SP.POP.TOTL?end=2022&locations=AR&start=2000
+
+Base Unificada:
+https://docs.google.com/spreadsheets/d/1dXxL54MvMyzYLMuafPsOhLmRuu_fIammVITRjxPG1Wk/edit#gid=0
