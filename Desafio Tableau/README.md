@@ -4,9 +4,10 @@
 Desenvolver um dashboard utilizando uma ferramenta de visualização de dados, Tableau. O objetivo é analisar a evolução e o crescimento da internet, 
 bem como o número de usuários e assinantes na Argentina, investigando suas causas subjacentes.
 
-## Dashboard desenvolvido
+## Dashboard - Growth of the internet
 ![3](https://raw.githubusercontent.com/thalesbregantin/Challenge---Analytics-Engineer-/main/img/imgdash.PNG)
 
+## Geral
 Este dashboard oferece uma visão abrangente do acesso à internet na Argentina ao longo do tempo. Ele apresenta quatro grandes números essenciais:
 
 Total da População: O número total de habitantes na Argentina.
