@@ -1,7 +1,7 @@
 # Challenge Analytics
 
 ## Objetivo
-Desenvolver um dashboard utilizando uma ferramenta de visualização de dados, Tableau. O objetivo é analisar a evolução e o crescimento da internet, 
+Desenvolver um dashboard utilizando uma ferramenta de visualização de dados, nesse desafio foi definido que utilizaria o Tableau. O objetivo é analisar a evolução e o crescimento da internet, 
 bem como o número de usuários e assinantes na Argentina, investigando suas causas subjacentes.
 
 ## Dashboard - Growth of the internet
