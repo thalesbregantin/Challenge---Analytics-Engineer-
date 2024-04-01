@@ -22,16 +22,16 @@ O pedido é a entidade que reflete as transações geradas dentro do site (cada 
 
 ## Desenvolvimento do DER
 
-####Cliente:<br> 
+#### Cliente:<br> 
 Guarda informações dos usuários, tanto compradores quanto vendedores.
 
-####Item:<br>
+#### Item:<br>
 Representa produtos no marketplace, vinculado a categorias.
 
-####Categoria:<br>
+#### Categoria:<br>
 Categorias para organizar os itens.
 
-####Pedido:<br>
+#### Pedido:<br>
 Transações de compra de itens específicos por clientes.
 
 As relações seriam:
